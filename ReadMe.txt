@@ -1,0 +1,3 @@
+- Windows 에서 Shell Script 실행하기 위해 Git Bash 사용했음.
+	- Git 깔면 Git Bash 도 깔림.
+	- Git Bash 실행하고 거기서 .sh 파일 실행 가능 
